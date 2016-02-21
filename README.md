@@ -2,7 +2,7 @@
 Twitter implementation of CloudCompute, FractalRender, and more.
 
 
-To get an image, tweet:
+To get an image, tweet:  
 @CloudComputeBot
 fractal: x, y, zoom, power, trials
 

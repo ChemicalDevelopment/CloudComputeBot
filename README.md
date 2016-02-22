@@ -1,4 +1,4 @@
-# CloudComputeBot ![Image for travis](https://travis-ci.org/ChemicalDevelopment/CloudComputeBot.svg?branch=master)
+# CloudComputeBot
 Twitter implementation of CloudCompute, FractalRender, and more.
 
 

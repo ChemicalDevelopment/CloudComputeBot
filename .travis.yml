@@ -1,5 +1,0 @@
-language: java
-install:
-    - git clone https://github.com/nativelibs4java/JavaCL.git
-jdk:
-  - oraclejdk8

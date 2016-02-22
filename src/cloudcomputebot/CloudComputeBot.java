@@ -13,7 +13,7 @@
  */
 package cloudcomputebot;
 
-import core.lib.Twitter.TwitterLib;
+import cloudcomputebot.Twitter.TwitterLib;
 import twitter4j.FilterQuery;
 import twitter4j.Twitter;
 import twitter4j.TwitterStream;
